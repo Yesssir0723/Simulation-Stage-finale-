@@ -14,7 +14,7 @@ from math import *
 import time
 import random
 
-"""# Interactio dipole dipole étude .
+"""# Interaction dipole dipole étude .
 
 Constante du problème.
 """
